@@ -1,0 +1,3 @@
+node_modules中放置的是package.json文件里的所有依赖
+
+下载命令：npm dev run
